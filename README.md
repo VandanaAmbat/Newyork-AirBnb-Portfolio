@@ -7,3 +7,5 @@ So here, I have tried to explore the AirBnb data of NewYork in 2019. Certain dat
   3.Available type rooms and Its Demand
   4.Top 10 Rated AirBnbs of 2019
   5.Most demanding Location and price variation along these neighbourhoods
+
+  Also for the Analysis, Manhattan area has been BOOKMARKED to understand the variations in the above mentioned data's.
